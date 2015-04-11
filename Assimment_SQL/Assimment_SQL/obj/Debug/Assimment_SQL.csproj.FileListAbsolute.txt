@@ -1,1 +1,9 @@
 E:\Soft\C#\Github\SQL_Assiment\Assimment_SQL\Assimment_SQL\bin\Debug\Assimment_SQL.exe.config
+E:\Soft\C#\Github\SQL_Assiment\Assimment_SQL\Assimment_SQL\bin\Debug\Assimment_SQL.exe
+E:\Soft\C#\Github\SQL_Assiment\Assimment_SQL\Assimment_SQL\bin\Debug\Assimment_SQL.pdb
+E:\Soft\C#\Github\SQL_Assiment\Assimment_SQL\Assimment_SQL\obj\Debug\Assimment_SQL.csprojResolveAssemblyReference.cache
+E:\Soft\C#\Github\SQL_Assiment\Assimment_SQL\Assimment_SQL\obj\Debug\Assimment_SQL.Form1.resources
+E:\Soft\C#\Github\SQL_Assiment\Assimment_SQL\Assimment_SQL\obj\Debug\Assimment_SQL.Properties.Resources.resources
+E:\Soft\C#\Github\SQL_Assiment\Assimment_SQL\Assimment_SQL\obj\Debug\Assimment_SQL.csproj.GenerateResource.Cache
+E:\Soft\C#\Github\SQL_Assiment\Assimment_SQL\Assimment_SQL\obj\Debug\Assimment_SQL.exe
+E:\Soft\C#\Github\SQL_Assiment\Assimment_SQL\Assimment_SQL\obj\Debug\Assimment_SQL.pdb
